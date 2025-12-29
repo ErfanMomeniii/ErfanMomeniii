@@ -8,10 +8,10 @@
 <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErfanMomeniii&show_icons=true&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+    <img height="180rem" width="450rem" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErfanMomeniii&show_icons=true&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
   </a>
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErfanMomeniii&langs_count=7&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+    <img height="180rem" width="450rem" alt="Most Used Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErfanMomeniii&langs_count=7&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
   </a>
 </div> 
 
