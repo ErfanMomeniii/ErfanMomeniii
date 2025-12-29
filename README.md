@@ -4,16 +4,18 @@
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I%27m+Erfan;)
-
-<div align="center">
+<p align="center">
   <br>
-  <a href="#">
-    <img height="180rem" width="450rem" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErfanMomeniii&show_icons=true&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
-  </a>
-  <a href="#">
-    <img height="180rem" width="450rem" alt="Most Used Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErfanMomeniii&langs_count=7&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
-  </a>
-</div> 
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErfanMomeniii&show_icons=true&theme=vue-dark&bg_color=0d1117&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErfanMomeniii&langs_count=7&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"
+    height="170"
+  />
+</p>
+ 
 
 <br>
 <br>
